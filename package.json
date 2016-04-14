@@ -2,7 +2,7 @@
   "name": "mesh",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Haggus/mesh/issues"
   },
-  "homepage": "https://github.com/Haggus/mesh#readme"
+  "homepage": "https://github.com/Haggus/mesh#readme",
+  "devDependencies": {
+    "electron-connect": "^0.3.7",
+    "electron-prebuilt": "^0.37.5",
+    "gulp": "^3.9.1"
+  }
 }
