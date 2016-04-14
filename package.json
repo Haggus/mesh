@@ -1,0 +1,19 @@
+{
+  "name": "mesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haggus/mesh.git"
+  },
+  "author": "Mateusz 'Haggus' Mrowiec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Haggus/mesh/issues"
+  },
+  "homepage": "https://github.com/Haggus/mesh#readme"
+}
